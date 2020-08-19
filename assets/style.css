@@ -1,0 +1,74 @@
+.header .navbar{
+    background-color: #C5071A !important;
+}
+
+.header img{
+    width: 60px;
+    height: 60px;
+}
+
+.alert{
+    border: 1px solid #ccc !important;
+    background-color: #F7263B !important;
+    color: black !important;
+    box-shadow: 2px 2px 2px black;
+}
+.main-container{
+    width: 98% !important;
+    margin: 0 auto;
+
+}
+
+.carousel-container .carousel-inner .carousel-item img{
+
+    height: 550px !important;
+}
+
+/*Edición contenido card*/
+.container-card{
+    width: 95% !important;
+    height: auto;
+    margin-top: -150px;
+
+}
+
+.card{
+    height: 770px;
+    box-shadow: 1px 1px 1px #ccc;
+}
+.container-card .card img{
+    height: 450px;
+}
+
+.card-body a{
+    background-color: #F7263B;
+    border: #F7263B;
+}
+
+.card-body a:hover{
+    background-color: #C5071A !important;
+}
+
+
+/*Estilos formulario contacto*/
+form button{
+    background-color: #F7263B !important;
+    cursor: pointer;
+    transition: all 2ms;
+}
+
+form button:hover{
+    background-color: #C5071A !important;
+    color: white !important;
+}
+
+/*Estilos Footer*/
+footer{
+    height: 40px;
+    background-color: #03071E;
+    color: white;
+}
+
+footer h5{
+    line-height: 40px;
+}

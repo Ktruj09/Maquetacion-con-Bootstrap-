@@ -1,0 +1,40 @@
+
+@media (max-width: 1199px){
+    body{
+        background-color: black;
+    }
+
+    .card{
+        height: 850px;
+        padding-bottom: 5px;
+        margin-bottom: 4px;
+    }
+
+    footer{
+        background-color: #C5071A;
+    }
+}
+
+@media (max-width: 992px){
+    .col-md-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 82 0 146.333%;
+        max-width: 46.333%;
+    }
+    
+}
+
+@media (max-width: 768px){
+    .col-md-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 82 0 146.333%;
+        max-width: 100.333%;
+    }
+}
+
+
+@media (max-width: 460px){
+    footer{
+        height: 90px;
+    }
+}
